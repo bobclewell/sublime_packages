@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-logger.info "\n***** ${1:text}: #{${1:text}.inspect}\n"
+logger.info "\n%%%%% ${1:text}: #{${1:text}.inspect}\n"
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>info</tabTrigger>
