@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Rails.logger.info "\n%%%%% ${1:text}: #{${1:text}.inspect}\n"
+Rails.logger.info "\n>>>>> ${1:text}: #{${1:text}.inspect}\n"
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>Rinfo</tabTrigger>
